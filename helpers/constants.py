@@ -1,4 +1,5 @@
-DATABASE_URL = "mysql+pymysql://root:Pass%40123@localhost/document_db"
+DATABASE_URL = "mysql+pymysql://root:Atharva%401214@localhost:8080/document_db"
+
 SECRET_KEY = "your_secret_key"
 ALGORITHM = "HS256"
 SENDER_EMAIL = "patilatharva1214@gmail.com"
@@ -11,4 +12,6 @@ LOGGING_LEVEL = "INFO"
 ACTIVITY_LOGS_TABLE = "activity_logs"
 
 # Date format constant
-DATE_FORMAT = '%Y-%m-%d %H:%M:%S'
+DATE_FORMAT = "%Y-%m-%d %H:%M:%S"  # Standard date format
+
+#config file
