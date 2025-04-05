@@ -42,8 +42,6 @@ The **Document Management System** is a comprehensive application designed to ha
    ```
 
 ---
-<<<<<<< HEAD
-=======
 
 ## Usage
 
@@ -73,4 +71,3 @@ Document-Management-System/
 ├── [requirements.txt](http://_vscodecontentref_/3)             # Project dependencies
 ├── [README.md](http://_vscodecontentref_/4)                    # Project documentation
 └── .env                         # Environment variables
->>>>>>> 37f894c (updated read me file)
